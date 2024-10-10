@@ -10,7 +10,7 @@ In elementary school, I taught myself how to touch type. Eventually I could aver
 
 In High School, I discovered the world of Linux and the FOSS philosophy. I discovered the folks at [r/unixporn](https://www.reddit.com/r/unixporn/){:target="_blank"} which took customization of their machines to the next level. I was hooked 
 
-Present day, I am starting my journey into IT by diving into projects like creating my own homelab and completing the CompTIA A+ course. 
+I remained much as a hobbyist until present day, where I know study Computer Science. I am starting my journey into IT industry by diving into projects like creating my own homelab and completing the CompTIA A+ course. 
 
 Please join me on this journey as a college student. You can contact me on [LinkedIn](https://www.linkedin.com/in/thomas-siu/){:target="_blank"} or Email.
 
