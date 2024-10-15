@@ -4,13 +4,20 @@ title: About
 permalink: /about/
 ---
 
-I'm a 19 year old CS student at UMass Boston. Growing up I've always had an interest in computers. The first time I ever used a computer was my families 2002 Apple eMac that we were gifted from family friends. Ever since I was 4 or 5 years old, I’ve been captivated by the endless possibilities that technology offers, and that curiosity continues to drive me today in my studies.
+I'm a 19 year old CS student at UMass Boston. 
 
-In elementary school, I taught myself how to touch type. Eventually I could average well above 100wpm in normal typing and 150wpm on sites such as TypeRacer or MonkeyType.
+Throuhgout the years, I've been interested in building pcs, linux, typing really fast (average 150wpm on monkeytype C:), mechanical keyboards, and many more niches.
 
-In High School, I discovered the world of Linux and the FOSS philosophy. I discovered the folks at [r/unixporn](https://www.reddit.com/r/unixporn/){:target="_blank"} which took customization of their machines to the next level. I was hooked 
+A couple years ago I discovered Linux and its FOSS philosophy by stumbling through the folks at [r/unixporn](https://www.reddit.com/r/unixporn/){:target="_blank"}. I was blown away at their creations and wanted to try it for myself.
 
-I remained much as a hobbyist until present day, where I know study Computer Science. I am starting my journey into IT industry by diving into projects like creating my own homelab and completing the CompTIA A+ course. 
+After many years of distro hopping, I've finally decided on KDE Neon dual booted with Windows on my desktop.
 
-Please join me on this journey as a college student. You can contact me on [LinkedIn](https://www.linkedin.com/in/thomas-siu/){:target="_blank"} or Email.
+I remained much as a hobbyist until present day, where I now study Computer Science. I am starting my journey into IT industry by diving into projects like creating my own homelab and completing the CompTIA A+ course. 
+
+Please join me on this journey.
+
+You can contact me on [LinkedIn](https://www.linkedin.com/in/thomas-siu/){:target="_blank"} or [Email](mailto:thomas.siu001@umb.edu){:target="_blank"}.
+
+Thank you for vising!
+
 
