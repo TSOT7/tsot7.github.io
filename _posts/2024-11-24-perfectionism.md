@@ -5,11 +5,17 @@ categories: Productivity
 tags: academic
 description: The one factor that held me back in many areas of my life
 ---
-All throughout my life I struggled immensely with comparing myselves to others. This problem is even more apparant now that I am studying computer science. The term for this is **imposter syndrome**, and it affects many STEM students who struggle with comparing themselves to others. 
+All throughout my life, I’ve struggled immensely with comparing myself to others. This problem has become even more apparent now that I’m studying computer science. The term for this is imposter syndrome, and it affects many STEM students who find themselves constantly comparing their abilities to others.
 
-I find that it often affects my productivity, when I feel like I have to be in the optimal enviroment, mood, energy levels, time of day, day of the week, week of the month, month of the year to be able to get things done. But this problem I had highlighted another very significant problem that rooted from it, that being perfectionism.
+I’ve noticed that this mindset often impacts my productivity. I felt like I needed to be in the perfect environment, the ideal mood, with the right energy levels, at the perfect time of day, on the best day of the week, or even the right month of the year just to get things done. But this struggle highlighted an even deeper issue for me: perfectionism.
 
-I was always under the impression that if I wasn't up for studying that day or if I felt like I wasn't in the optimal enviroment to be productive, then I just wouldn't do anything that day. This problem carried throughout all of high school for me, it led to me being unhappy and overall a mediocre student. Because 90% of the time, I did not feel like studying. 
+For the longest time, I believed that if I wasn’t in the right mindset to study or if my environment wasn’t optimal for productivity, then it wasn’t worth doing anything at all. This mindset followed me throughout high school, leaving me unhappy and, frankly, a pretty mediocre student. Most of the time—probably 90% of it—I didn’t feel like studying, so I just didn’t.
 
-The paradigm shift for me was when I was reading Atomic Habits by James Clear. Clear talks about the power of repetition of perfectionism, the main delemna that I was dealing with. He states that the frequency of doing something matters more than the intensity or duration. As long as something gets done, then its much better than doing nothing at all 
-And then I discovered the idea of **non zero days**, Everyday, I should be doing something that gets me closer to my goals in life, it doesn't matter if its for 3 hours a day or 30 minutes. As long as I did something that day, then it would be a **non zero day**
+The turning point for me was when I read Atomic Habits by James Clear. Clear talks about how repetition beats perfectionism, which was exactly the issue I was grappling with. He explains that the frequency of doing something matters far more than the intensity or duration. The key is that as long as something gets done, it’s better than doing nothing at all.
+
+That’s when I discovered the concept of non-zero days. The idea is simple: every day, I should do at least something—no matter how small—that gets me closer to my goals. Whether it’s 3 hours or just 30 minutes, as long as I do something, it counts as a non-zero day.
+
+So I made a promise to myself from that day forward that everyday, I would do a small action that made me better than I was the previous day. Even if the action was extremely miniscule as the title states, something is always better than nothing. 
+
+Eventually, I found myself getting through the initial hurdle of getting things done much more effectively, and slowly but surely my issue of procrastination was slowly burning away. 
+
