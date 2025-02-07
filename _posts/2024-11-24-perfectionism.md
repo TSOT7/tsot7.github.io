@@ -17,5 +17,5 @@ That’s when I discovered the concept of non-zero days. The idea is simple: eve
 
 So I made a promise to myself from that day forward that everyday, I would do a small action that made me better than I was the previous day. Even if the action was extremely miniscule as the title states, something is always better than nothing. 
 
-Eventually, I found myself getting through the initial hurdle of getting things done much more effectively, and slowly but surely my issue of procrastination was slowly burning away. 
+Eventually, I found myself getting through the initial hurdle of getting things done much more effectively, and slowly but surely my issue of procrastination was slowly fading away. 
 
